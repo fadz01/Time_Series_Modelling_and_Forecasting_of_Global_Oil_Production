@@ -1,0 +1,2 @@
+# Time_Series_Modelling_and_Forecasting_of_Global_Oil_Production
+Univariate Time Series Modelling and Forecasting of Global Oil Production Using Exponential Smoothing and ARIMA-Based Approaches. Applied Exponential Smoothing (ETS) models (Holt’s Linear Trend, Naïve with Drift) and ARIMA modelling. Performed residual analysis, assumption testing, and model comparison to determine best-fit forecasting approach.
