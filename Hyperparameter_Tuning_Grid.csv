@@ -1,0 +1,6 @@
+Experiment,Split,Optimizer,Learning Rate,Epochs,Early Stopping,Train Accuracy,Val Accuracy,Test Accuracy,F1 Score,Notes
+1,80:10:10,Adam,0.001,60,✅ Pat=5,,,,,Baseline
+2,70:15:15,Adam,0.001,60,✅ Pat=5,,,,,
+3,70:20:10,Adam,0.001,60,✅ Pat=5,,,,,
+4,80:10:10,SGD,0.01,60,✅ Pat=5,,,,,
+5,80:10:10,RMSprop,0.001,60,✅ Pat=5,,,,,
